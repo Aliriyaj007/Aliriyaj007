@@ -1,5 +1,4 @@
-# 💫 About Me:
-Code with purpose, innovate without limits
+# Code with purpose, innovate without limits
 
 
 # 💻 Tech Stack:
